@@ -1,0 +1,5 @@
+"use strict";
+
+var text = '文字';
+console.log(text);
+//# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImFsbC5qcyJdLCJuYW1lcyI6WyJ0ZXh0IiwiY29uc29sZSIsImxvZyJdLCJtYXBwaW5ncyI6Ijs7QUFBQSxJQUFNQSxJQUFJLEdBQUcsSUFBYjtBQUNBQyxPQUFPLENBQUNDLEdBQVIsQ0FBWUYsSUFBWiIsImZpbGUiOiJhbGwuanMiLCJzb3VyY2VzQ29udGVudCI6WyJjb25zdCB0ZXh0ID0gJ+aWh+Wtlyc7XG5jb25zb2xlLmxvZyh0ZXh0KTsiXX0=
