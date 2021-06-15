@@ -36,3 +36,8 @@ gulp
 * [gulp-gh-pages](https://www.npmjs.com/package/gulp-gh-pages)
 * [jquery](https://www.npmjs.com/package/jquery)
 * [bootstrap](https://www.npmjs.com/package/bootstrap)
+
+## 參考來源
+
+* [使用 gulp 進行網頁前端自動化](https://www.udemy.com/course/gulp-learning)
+* [網頁切版直播班 Gulp 範例](https://github.com/hexschool/web-layout-training-gulp)
